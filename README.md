@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sarathy Arumugam</h1>
+<h1 align="center">Hi 👋, I'm Amando Martinez</h1>
 <h3 align="center">Senior Full Stack Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasoft12&label=Profile%20views&color=0e75b6&style=flat" alt="sasoft12" /> </p>
