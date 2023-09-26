@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sasoft12" alt="sasoft12" /></a> </p>
 
-- 💬 Ask me about **React, Angular, and Ruby on Rails**
-
-- 📫 How to reach me **arumugamsarathy22@gmail.com**
+- 💬 Ask me about **Ruby on Rails, React, and Vue.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
