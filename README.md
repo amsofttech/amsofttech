@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amando Martinez</h1>
-<h3 align="center">Senior Full Stack Developer (Ruby on Rails, React, Vue.js)</h3>
+<h3 align="center">Senior Full Stack Developer (Ruby on Rails, React, Vue.js, Python, Node.js)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amsofttech&label=Profile%20views&color=0e75b6&style=flat" alt="amsofttech" /> </p>
 
-- 💬 Ask me about **Ruby on Rails, React, Vue.js**
+- 💬 Ask me about **Ruby on Rails, React, Vue.js, Python, Node.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
